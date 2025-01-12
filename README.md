@@ -1,1 +1,1 @@
-
+Robo Car is a Bluetooth-controlled robot programmed in C++, featuring ultrasonic sensors for obstacle detection and DC motors for mobility. Its standout feature is a servo-powered storage box for carrying items, combining utility and innovation. Compact and efficient, it showcases creative engineering for practical and educational purposes.
